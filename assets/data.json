@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Green Box",
+        "items": [
+            {
+                "id": "1",
+                "description": "Makeup"
+            },
+            {
+                "id": "2",
+                "description": "Old lamp"
+            },
+            {
+                "id": "3",
+                "description": "Clothes"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Fridge",
+        "items": [
+            {
+                "id": "1",
+                "description": "Food"
+            },
+            {
+                "id": "2",
+                "description": "Drinks"
+            }
+        ]
+    }
+]
