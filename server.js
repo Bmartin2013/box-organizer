@@ -22,6 +22,7 @@ app.get('/boxes', function (req, res) {
    index.listInventory.then((result) => res.json(result));
 });
 
+// this request is for adding boxes
 app.post('/addbox', function (req, res) {
     index.addBox(req.body)
         .then(res.send("Box Added Successfully"))
