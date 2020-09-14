@@ -1,7 +1,26 @@
+## PR type
+
+* [ ]  Fix
+* [ ]  Feature
+* [ ]  Refactor
+* [ ]  Migration
+
+## Progress 
+
+* [ ]  Subtask #1
+* [ ]  Subtask #2
+* [ ]  Subtask #3
+
+<br>
+<br>
+
 ## Description
 
-Please describe your feature briefly :)
+Brief description and purpose of the document.
 
-## Screenshot
+<br>
+<br>
 
-Please add a nice picture! This step is optional but recommended
+## Details
+
+Brief explanation of the new document or the update introduced followed by the location of the document.
